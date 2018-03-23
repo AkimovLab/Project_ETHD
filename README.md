@@ -1,2 +1,1 @@
-# Project_ETHD
-Data and scripts for the Entangled Trajectories Hamiltonian Dynamics project
+# Entangled Trajectories Hamiltonian Dynamics for Treating Quantum Nuclear Effects
